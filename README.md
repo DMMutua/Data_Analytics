@@ -1,5 +1,5 @@
 # Data Analytics Using Python
-This Repository Hosts Python Scripts that Analyze Mostly Financial Data.<br>Most of the Scripts are in the `.ipynb` format to Both Present Analysis and Results Concurrently<br>
+This Repository Hosts Python Scripts that Analyze Mostly Financial Data.<br>Most of the Scripts are in the `.ipynb` format to Both Present Analysis and Results Concurrently Without a need to upload datasets<br>
 
 ## Data Models
 This Section of the Repo Contains Code that Implements A Variety of Statistical Models on Data.Some of these Scripts contain Extra code to Load and Visualize Data as well as Access, Format and Present Results.
